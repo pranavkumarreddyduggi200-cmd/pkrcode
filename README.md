@@ -1,4 +1,4 @@
 # pkrcode
 This is my first git repository 
 <br>
-author:Duggi pranav kumar reddy
+author:Duggi pranav kumar reddy(pkr)
